@@ -167,6 +167,29 @@ export const DATA = {
       ],
       image: "/tokped.png",
     },
+     {
+      title: "NovaVideo AI",
+      href: "",
+      dates: "August 2025 - Active",
+      active: true,
+      description:
+        "This project is a fork of the GitHub repository dzakyabdrmhn that I developed on the interface/frontend side. With the help of Shacn UI technology.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Shadcn UI",
+        "docker",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/nextvid.png",
+    },
     // {
     //   title: "Re4ctx Todos",
     //   href: "https://github.com/zetFF/re4ctx-todo.git",
