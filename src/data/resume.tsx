@@ -338,7 +338,7 @@ export const DATA = {
         "Industrial Practice Work at PT Globalintermedia Nusantara from July 1, 2024 to December 21, 2024",
       icon: "public",
       image:
-        "https://biroka.unjaya.ac.id/logo/hVnHBAbq-20230526-company-logo.jpeg",
+        "/globalintermedia.png",
       links: [],
     },
     {
