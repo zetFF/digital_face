@@ -39,7 +39,7 @@ export const DATA = {
   },
  ],
 
- skills: ["React", "Next.js", "JavaScript", "Node.js", "HTML", "CSS", "Laravel", "Figma", "Tailwind CSS"],
+ skills: ["React", "Next.js", "JavaScript", "Node.js", "HTML", "CSS", "Laravel", "Figma", "Tailwind CSS", "Typescript"],
  navbar: [
   { href: "/", icon: HomeIcon, label: "Home" },
   { href: "/blog", icon: NotebookIcon, label: "Blog" },
