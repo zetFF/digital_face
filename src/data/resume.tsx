@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
  name: "Afkar",
  initials: "Zee",
- url: "https://dillion.io",
+ url: "https://www.instagram.com/zzz_3t44/",
  location: "Indonesia, Yogyakarta",
- locationLink: "https://www.google.com/maps/place/sanfrancisco",
+ locationLink: "https://www.google.com/maps/place/indonesian+yogyakarta/",
  description: "I'am a Web Developer who focuses on Frontend and UI UX Designer.",
  summary:
   "I'm a website developer and user interface designer. Currently, I work as a self-employed frontend developer, specializing in creating impressive websites that boost business. am a Web Developer who focuses on Frontend and UI UX Designer. I learned about Frontend art world since 2022 until now. I am able to use JavaScript Framework technology and UI Library.",
@@ -39,7 +39,7 @@ export const DATA = {
   },
  ],
 
- skills: ["React", "Next.js", "JavaScript", "Node.js", "HTML", "CSS", "Laravel", "Figma", "Tailwind CSS", "Typescript"],
+ skills: ["React", "Next.js", "JavaScript", "Node.js", "HTML", "CSS", "Laravel", "Figma", "Tailwind CSS", "Typescript", "Shadcn UI", "Clerk Auth", "Inertia", "CapCut", "Canva", "UI UX Design",  "Litle IOT"],
  navbar: [
   { href: "/", icon: HomeIcon, label: "Home" },
   { href: "/blog", icon: NotebookIcon, label: "Blog" },
